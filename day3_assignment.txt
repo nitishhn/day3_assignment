@@ -24,8 +24,7 @@ the index of the current element, and the array map() was called upon.
 
 Example:
 
-javascript
-Copy code
+
 const numbers = [1, 2, 3, 4, 5];
 const doubled = numbers.map(num => num * 2);
 // doubled is [2, 4, 6, 8, 10]
